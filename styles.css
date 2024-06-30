@@ -1,0 +1,15 @@
+body {
+        font-size: 1.25rem;
+}
+li {
+    list-style-type: none;
+}
+ul {
+    display: flex;
+    flex-direction: column;
+    gap: .625rem;
+}
+
+p {
+    font-weight: 600;
+}
